@@ -30,7 +30,7 @@ This project was developed in the following sections:
     - Variables assumed to be less imporatnt in making difference are excluded
 - Discussion on the Statistical Significance
     
-# Reqyuired Libraries
+# Required Libraries
 - Pandas
 - numpy
 - seaborn
