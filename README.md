@@ -20,7 +20,7 @@ https://www.kaggle.com/suhasshastry/bank-marketing-analysis-for-term-deposit
 This project was developed in the following sections:
 
 - Data Description  
-- Discriptive Statistics
+- Descriptive Statistics
 - Visualizations
 - Data Preprocessing
 - Making Predictions and Model Assessment  
